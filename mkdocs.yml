@@ -1,0 +1,7 @@
+site_name: CUE SDK
+theme:
+  name: material
+  custom_dir: overrides
+  logo: https://cwsmgmt.corsair.com/img/reusable/corsair-logo.svg
+extra_css:
+  - stylesheets/extra.css
